@@ -8,7 +8,7 @@ Recursivley lists all the files and directories, descending from the current wor
 Displays the details of files and directories newer than a specifiec date either from a last modified time of a file or a specified date as a string.
 
 **backup.c**     
-This file contains two different programs, one if which runs if the command is run from a linux symlink called 'restore' rather than 'backup'
+This file contains two different programs, one of which runs if the command is run from a linux symlink called 'restore' rather than 'backup'
 
 *backup*  
 Recusively processes every file and directory beneath a given start directory and archives them each into a .tar file format.  
