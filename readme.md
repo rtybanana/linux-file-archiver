@@ -2,7 +2,7 @@
 File archiver tool written in C with a command line interface for a 2nd year university coursework.
 This repo contains three seperate files which are different C programs for the sections of the coursework I made them for.
 
-**listfiles.c **   
+**listfiles.c**   
 Recursivley lists all the files and directories, descending from the current working directory.
 
 **backupfles.c**   
