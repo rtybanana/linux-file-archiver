@@ -1,4 +1,5 @@
-# File Archiver Tool written in C for a Raspberry Pi with a command line interface
+# Linux File Archiver
+File archiver tool written in C with a command line interface for a 2nd year university coursework.
 This repo contains three seperate files which are different C programs for the sections of the coursework I made them for.
 
 **listfiles.c **   
